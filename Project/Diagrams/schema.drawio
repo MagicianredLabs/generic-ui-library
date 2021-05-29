@@ -1,0 +1,127 @@
+<mxfile>
+    <diagram id="qsnDriftJt72G9iPDm_e" name="Page-1">
+        <mxGraphModel dx="1076" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="425" y="260" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="SpecificFrameworkUILibrary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="435" y="260" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="60" width="720" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="GenericUILibrary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="60" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="SimpleComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="SimpleComponent2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="SimpleComponent3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="SimpleComponent4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="90" width="420" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="ComplexComponent1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="90" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="SimpleComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="135" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="SimpleComponent3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="135" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="SimpleComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="135" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="440" y="290" width="340" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="29">
+                    <mxGeometry width="340" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Wrapper&lt;br&gt;GenericUILibrary&lt;br&gt;SimpleComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="35" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Wrapper&lt;br&gt;GenericUILibrary&lt;br&gt;ComplexComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="29">
+                    <mxGeometry x="150" y="40" width="180" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Wrapper&lt;br&gt;GenericUILibrary&lt;br&gt;SimpleComponent2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="29">
+                    <mxGeometry x="10" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="ReactUILibrary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="29">
+                    <mxGeometry x="5" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="60" y="260" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="31">
+                    <mxGeometry width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="SpecificFrameworkUILibrary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="31">
+                    <mxGeometry x="10" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="31">
+                    <mxGeometry x="10" y="30" width="340" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="AngularUILibrary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="31">
+                    <mxGeometry x="10" y="30" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Wrapper&lt;br&gt;GenericUILibrary&lt;br&gt;SimpleComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="31">
+                    <mxGeometry x="20" y="65" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Wrapper&lt;br&gt;GenericUILibrary&lt;br&gt;ComplexComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="31">
+                    <mxGeometry x="160" y="70" width="180" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Wrapper&lt;br&gt;GenericUILibrary&lt;br&gt;SimpleComponent2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="31">
+                    <mxGeometry x="20" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="65" y="560" width="720" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                    <mxGeometry width="720" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Your Final APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="32">
+                    <mxGeometry x="10" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Wrapper&lt;br&gt;SpecificFrameworkUILibrary&lt;br&gt;SimpleComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                    <mxGeometry x="20" y="40" width="260" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Wrapper&lt;br&gt;SpecificFrameworkUILibrary&lt;br&gt;ComplexComponent1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                    <mxGeometry x="360" y="40" width="345" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Wrapper&lt;br&gt;SpecificFrameworkUILibrary&lt;br&gt;SimpleComponent2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="32">
+                    <mxGeometry x="20" y="140" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Will be Dumb components.&lt;br&gt;Take props as property of function&lt;br&gt;received from parent components." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="60" width="300" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="40">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="390" as="sourcePoint"/>
+                        <mxPoint x="450" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="Will be Dumb components that wrap WebComponents created in GenericUILibrary.&lt;br&gt;Take props as property of function&lt;br&gt;received from parent components&lt;br&gt;but use specific feature from framework&lt;br&gt;(for example lifecycle or hooks from react)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="300" width="300" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="42" source="22">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="820" y="390" as="sourcePoint"/>
+                        <mxPoint x="490" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

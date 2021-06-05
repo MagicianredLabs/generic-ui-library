@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 
-const TodoListHeader = ({
+const TodoListHeaderWrapper = ({
     onAdd
 }) => {
     const [value, setValue] = useState('');
@@ -32,9 +32,9 @@ const TodoListHeader = ({
     );
 }
 
-TodoListHeader.propTypes = {
+TodoListHeaderWrapper.propTypes = {
     data: PropTypes.object,
     onAdd: PropTypes.func,
 };
 
-export default TodoListHeader;
+export default TodoListHeaderWrapper;

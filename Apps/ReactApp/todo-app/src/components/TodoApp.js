@@ -1,8 +1,11 @@
-import React, { useEffect, useState, useCallback } from 'react';
-import TodoListHeader from './TodoListHeader';
-import TodoList from './TodoList';
-import TodoListFooter from './TodoListFooter';
+import React, { useEffect, useState } from 'react';
 import TodosService from './../services/TodosService';
+import { 
+    // TodoListHeaderWrapper as TodoListHeader, 
+    TodoListWrapper as TodoList, 
+    TodoListFooterWrapper as TodoListFooter 
+} from './../TodoLibrary';
+import { TodoListHeaderWrapper as TodoListHeader } from './../TodoLibrary/TodoListHeaderWrapper';
 
 const EMPTY_TODO = { title: '', complete: false };
 

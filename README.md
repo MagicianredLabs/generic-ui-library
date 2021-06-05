@@ -11,7 +11,9 @@ https://www.sitepoint.com/angular-2-tutorial/
 
 ## Descrizione
 
-![Schema](Project/Diagrams/schema.drawio)
+![Diagram](Project/Diagrams/schema.png)  
+[drawio](Project/Diagrams/schema.drawio)  
+[png](Project/Diagrams/schema.png)  
 
 L'obbiettivo è poter riutilizzare una serie di *dumb component* creati in Web Components (così da poter essere riutilizzati in diversi framework) e creare una o più librerie di uno specifico framework così da poterle inserire facilmente nel proprio progetto e poter arricchire i componenti fatti in Web Components con le specifiche caratteristiche dei framework (routing, lifecycle, state management, ecc).
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TodoListItemWrapper from './../TodoListItemWrapper/TodoListItemWrapper';
+import TodoListItemWrapper from './../TodoListItemWrapper';
 
 const TodoListWrapper = ({
     data,

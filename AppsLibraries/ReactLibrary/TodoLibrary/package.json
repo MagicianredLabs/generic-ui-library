@@ -1,0 +1,52 @@
+{
+  "name": "@magicianred/todo-react-ui-library",
+  "version": "1.0.4",
+  "description": "An experiment - React component to make a Todo app",
+  "license": "MIT",
+  "repository": "magicianred/generic-ui-library",
+  "main": "src/index.js",
+  "module": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "README_en.md"
+  ],
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "react",
+    "components",
+    "ui",
+    "magicianred"
+  ],
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "css-loader": "^5.2.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "prop-types": "^15.7.2"
+  }
+}

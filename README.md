@@ -34,4 +34,18 @@ Il primo step sarà quello di trasformare i componenti in *dumb component* e spo
 
 Convertire la cartella (o il modulo per Angular) in una libreria esterna e caricarla in un servizio per essere installata con *npm* o *yarn* o altro package manager.
 
+#### Angular
+
 [TO DO]
+
+#### React
+
+
+
+## Credits
+
+- Thanks to [jawblia](https://github.com/jawblia) for her guide to make npm package for react
+https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f
+
+- Thanks to *Suprada Urval*
+https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f

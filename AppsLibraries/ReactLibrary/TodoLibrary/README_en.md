@@ -2,9 +2,19 @@
 
 A React Library with Todo Components
 
-## Use
+## Install
+
+### Plain - copy and past
 
 Copy and Past *TodoLibrary* folder in your *src* application folder of React.
+
+### npm library
+
+```
+npm install @magicianred/todo-react-ui-library
+```
+
+## Use
 
 ### Import the whole TodoLibrary component
 
@@ -22,3 +32,4 @@ import {
 ```javascript
 import { TodoListHeaderWrapper as TodoListHeader } from './../TodoLibrary/TodoListHeaderWrapper';
 ```
+

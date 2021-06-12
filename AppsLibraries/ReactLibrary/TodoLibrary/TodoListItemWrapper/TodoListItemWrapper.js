@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const TodoListItem = ({
+const TodoListItemWrapper = ({
     data,
     onToggleComplete,
     onRemove
@@ -23,10 +23,10 @@ const TodoListItem = ({
     );
 }
 
-TodoListItem.propTypes = {
+TodoListItemWrapper.propTypes = {
     data: PropTypes.object,
     onToggleComplete: PropTypes.func,
     onRemove: PropTypes.func,
 };
 
-export default TodoListItem;
+export default TodoListItemWrapper;

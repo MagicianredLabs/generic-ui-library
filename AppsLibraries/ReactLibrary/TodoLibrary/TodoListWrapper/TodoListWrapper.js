@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TodoListItem from './TodoListItem';
+import TodoListItemWrapper from './../TodoListItemWrapper/TodoListItemWrapper';
 
-const TodoList = ({
+const TodoListWrapper = ({
     data,
     onToggleComplete,
     onRemove
@@ -12,11 +12,11 @@ const TodoList = ({
             <ul className="todo-list">
                 {data.map((item, index) => (
                     <li key={index} className={`${item.completed ? "completed" : ""}`}>
-                        <TodoListItem
+                        <TodoListItemWrapper
                             data={item}
                             onToggleComplete={onToggleComplete}
                             onRemove={onRemove}
-                        ></TodoListItem>
+                        ></TodoListItemWrapper>
                     </li>
                 ))}
             </ul>
@@ -24,10 +24,10 @@ const TodoList = ({
     );
 }
 
-TodoList.propTypes = {
+TodoListWrapper.propTypes = {
     data: PropTypes.array,
     onToggleComplete: PropTypes.func,
     onRemove: PropTypes.func,
 };
 
-export default TodoList;
+export default TodoListWrapper;

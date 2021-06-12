@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const TodoListFooter = ({
+const TodoListFooterWrapper = ({
     data
 }) => {
     return (
@@ -15,8 +15,8 @@ const TodoListFooter = ({
     );
 }
 
-TodoListFooter.propTypes = {
+TodoListFooterWrapper.propTypes = {
     data: PropTypes.array,
 };
 
-export default TodoListFooter;
+export default TodoListFooterWrapper;

@@ -2,6 +2,10 @@
 
 A React Library with Todo Components
 
+## To Do
+
+- configurate rollup for delete /lib folder any time we build the library
+
 ## Install
 
 ### Plain - copy and past

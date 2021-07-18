@@ -49,3 +49,6 @@ https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a67
 
 - Thanks to *Suprada Urval*
 https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f
+
+- Thanks to *benjaminwfox*
+https://benjaminwfox.medium.com/creating-a-react-component-library-by-abstracting-a-react-component-library-45290114d22a

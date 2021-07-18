@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import TodoListItemWrapper from './../TodoListItemWrapper';
+import { TodoListItemWrapper } from './../TodoListItemWrapper/TodoListItemWrapper';
 
 const TodoListWrapper = ({
     data,
@@ -30,4 +30,4 @@ TodoListWrapper.propTypes = {
     onRemove: PropTypes.func,
 };
 
-export default TodoListWrapper;
+export { TodoListWrapper };

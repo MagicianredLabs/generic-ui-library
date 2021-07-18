@@ -29,4 +29,4 @@ TodoListItemWrapper.propTypes = {
     onRemove: PropTypes.func,
 };
 
-export default TodoListItemWrapper;
+export { TodoListItemWrapper };

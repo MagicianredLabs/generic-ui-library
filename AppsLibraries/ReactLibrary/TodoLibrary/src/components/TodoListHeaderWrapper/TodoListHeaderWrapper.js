@@ -37,4 +37,4 @@ TodoListHeaderWrapper.propTypes = {
     onAdd: PropTypes.func,
 };
 
-export default TodoListHeaderWrapper;
+export { TodoListHeaderWrapper };

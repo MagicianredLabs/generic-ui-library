@@ -19,4 +19,4 @@ TodoListFooterWrapper.propTypes = {
     data: PropTypes.array,
 };
 
-export default TodoListFooterWrapper;
+export { TodoListFooterWrapper };

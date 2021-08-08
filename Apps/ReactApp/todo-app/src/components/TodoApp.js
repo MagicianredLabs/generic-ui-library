@@ -1,11 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import TodosService from './../services/TodosService';
 import { 
-    // TodoListHeaderWrapper as TodoListHeader, 
+    TodoListHeaderWrapper as TodoListHeader, 
     TodoListWrapper as TodoList, 
     TodoListFooterWrapper as TodoListFooter 
-} from './../TodoLibrary';
-import { TodoListHeaderWrapper as TodoListHeader } from './../TodoLibrary/TodoListHeaderWrapper';
+} from '@magicianred/todo-react-ui-library';
+import TodosService from './../services/TodosService';
 
 const EMPTY_TODO = { title: '', complete: false };
 

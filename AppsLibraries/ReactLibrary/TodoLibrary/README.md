@@ -1,24 +1,30 @@
 # TodoLibrary - ReactLibrary
 
-A React Library with Todo Components
+Una libreria React con i Componenti Todo
+
+[English](https://github.com/MagicianredLabs/generic-ui-library/AppsLibraries/ReactLibrary/TodoLibrary/README_en.md)
+
+## Install
+
+### Semplice - copia e incolla
+
+Copia e incolla la cartella *TodoLibrary* nella cartella *src* della tua applicazione di React.
+
+### npm library
+
+```
+npm install @magicianred/todo-react-ui-library
+```
 
 ## Use
 
-Copy and Past *TodoLibrary* folder in your *src* application folder of React.
-
-### Import the whole TodoLibrary component
+### Importa la libreria completa
 
 ```javascript
 import { 
     TodoListHeaderWrapper as TodoListHeader, 
     TodoListWrapper as TodoList, 
     TodoListFooterWrapper as TodoListFooter 
-} from './../TodoLibrary';
+} from '@magicianred/todo-react-ui-library';
 ```
 
-
-### Import single component of TodoLibrary
-
-```javascript
-import { TodoListHeaderWrapper as TodoListHeader } from './../TodoLibrary/TodoListHeaderWrapper';
-```

@@ -1,2 +1,0 @@
-export TodoListFooterWrapper from './TodoListFooterWrapper';
-

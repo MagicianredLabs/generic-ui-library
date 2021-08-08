@@ -4,7 +4,6 @@ import {
     TodoListWrapper as TodoList, 
     TodoListFooterWrapper as TodoListFooter 
 } from '@magicianred/todo-react-ui-library';
-// import { TodoListHeaderWrapper as TodoListHeader } from '@magicianred/todo-react-ui-library/TodoListHeaderWrapper';
 import TodosService from './../services/TodosService';
 
 const EMPTY_TODO = { title: '', complete: false };

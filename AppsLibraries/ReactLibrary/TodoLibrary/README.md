@@ -2,9 +2,7 @@
 
 Una libreria React con i Componenti Todo
 
-## To Do
-
-- aggiungi una libreria di test e2e
+[English](https://github.com/MagicianredLabs/generic-ui-library/AppsLibraries/ReactLibrary/TodoLibrary/README_en.md)
 
 ## Install
 
@@ -27,13 +25,6 @@ import {
     TodoListHeaderWrapper as TodoListHeader, 
     TodoListWrapper as TodoList, 
     TodoListFooterWrapper as TodoListFooter 
-} from './../TodoLibrary';
-```
-
-
-### Importa un singolo componente
-
-```javascript
-import { TodoListHeaderWrapper as TodoListHeader } from './../TodoLibrary/TodoListHeaderWrapper';
+} from '@magicianred/todo-react-ui-library';
 ```
 

@@ -2,6 +2,8 @@
 
 A React Library with Todo Components
 
+[Italiano](https://github.com/MagicianredLabs/generic-ui-library/AppsLibraries/ReactLibrary/TodoLibrary/README.md)
+
 ## Install
 
 ### Plain - copy and past
@@ -25,11 +27,3 @@ import {
     TodoListFooterWrapper as TodoListFooter 
 } from './../TodoLibrary';
 ```
-
-
-### Import single component of TodoLibrary
-
-```javascript
-import { TodoListHeaderWrapper as TodoListHeader } from './../TodoLibrary/TodoListHeaderWrapper';
-```
-

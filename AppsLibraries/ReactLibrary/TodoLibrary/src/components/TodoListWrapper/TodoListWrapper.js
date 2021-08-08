@@ -10,7 +10,7 @@ const TodoListWrapper = ({
     return (
         <section className="main">
             <ul className="todo-list">
-                {data.map((item, index) => (
+                {data && data.map((item, index) => (
                     <li key={index} className={`${item.completed ? "completed" : ""}`}>
                         <TodoListItemWrapper
                             data={item}

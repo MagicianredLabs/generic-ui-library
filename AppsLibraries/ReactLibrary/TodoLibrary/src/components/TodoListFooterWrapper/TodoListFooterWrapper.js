@@ -6,7 +6,7 @@ const TodoListFooterWrapper = ({
 }) => {
     return (
         <footer className="footer">
-            {data.length > 0 && (<span 
+            {data && data.length > 0 && (<span 
                 className="todo-count">
                 <strong>{data.length}</strong>
                 {data.length === 1 ? 'item' : 'items'} left

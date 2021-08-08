@@ -52,3 +52,7 @@ https://itnext.io/how-to-package-your-react-component-for-distribution-via-npm-d
 
 - Thanks to *benjaminwfox*
 https://benjaminwfox.medium.com/creating-a-react-component-library-by-abstracting-a-react-component-library-45290114d22a
+
+- Thanks to *fathomtech.io*
+https://fathomtech.io/blog/create-a-react-component-library-using-create-react-app/
+
